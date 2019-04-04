@@ -1,0 +1,13 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+VAZNO!!!!!!!!!Wildfly Foto delovi prodavnica kako se setuje Vazno!!!!!!!.docx
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+

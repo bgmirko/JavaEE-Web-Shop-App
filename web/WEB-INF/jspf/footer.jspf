@@ -1,0 +1,22 @@
+            </div> <!-- end of div "#divSveMinuHederAndFoother" from header-->
+
+            <div id="footer">
+                <hr style="color: rgb(220,220,220);">
+                <div id="footerHrefovi">
+                    <a href="index.jsp">Home</a>
+                    <a href="/JBossFotoDelovi/aboutUs">About Us</a>
+                    <a href="/JBossFotoDelovi/contact">Contact</a>
+                    <a href="/JBossFotoDelovi/privacy">Privacy Policy</a>
+                    <a href="/JBossFotoDelovi/conditions">Conditions of Use and Sale</a>
+                </div>
+                <address class="copyright">
+                    Copyright © 2019 MINILAB PARTS. All Rights Reserved. 
+                    <span>
+                        © bgmirko@hotmail.com
+                    </span>
+                </address>
+            </div>
+        </div> <!-- end of div "#main" from header-->
+    </body>
+</html>
+
